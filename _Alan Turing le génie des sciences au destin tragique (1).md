@@ -1,7 +1,5 @@
-:::success
-# <center> Alan Turing le génie des sciences au destin tragique</center>
-:::
 
+# <p align="center">Alan Turing le génie des sciences au destin tragique</p>
 ---
 ## <center>Qui est Alan Turing ?</center>
 
@@ -19,7 +17,7 @@ Alan Turing, est durant toute sa scolarité vu par ses professeur comme un élè
 En 1936, il publie un article dans lequel il invente un modèle abstrait d’une machine pouvant être programmée pour être capable de lire et de comprendre des instructions afin de réaliser le travail d’un humain. Plus tard, ce projet se concrétisera sous le nom de [machine du Turing](https://www.youtube.com/watch?v=P66h8D5Lkwk&t=5s) et marque le début de l’algorithme universel, selon lequel ce qui  est calculable peut être décomposé en un nombre défini d’étapes pouvant chacun être réalisé par une machine. Cette machine, est aujourd’hui considéré comme l’ancêtre de l’ordinateur et a permis de définir les bases de l’informatiques moderne et de la programmation. Grâce à ses premiers travaux, Alan Turing est rapidement reconnu par ses pairs dans la sphère scientifique. 
 
 ---
-## <center>La montée du nazisme</center>
+## La montée du nazisme
 
 <center><iframe width="500" height="300" src="https://www.youtube.com/embed/RrRy_nkbG_w?si=jYnLIjOWnj39PySb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
