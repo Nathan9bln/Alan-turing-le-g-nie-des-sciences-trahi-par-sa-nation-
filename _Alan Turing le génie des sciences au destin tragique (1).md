@@ -19,8 +19,8 @@ En 1936, il publie un article dans lequel il invente un modèle abstrait d’une
 ---
 ## La montée du nazisme
 
-[![Adolf Hitler, la fulgurante ascension nazie, avec La Grande Explication | Lumni](https://youtu.be/RrRy_nkbG_w?si=GmunWTLpCw9ghS-k)](https://youtu.be/RrRy_nkbG_w?si=GmunWTLpCw9ghS-k)
-*Vidéo youtube sur l'acsension nazi par Lumni.*
+[![Adolf Hitler, la fulgurante ascension nazie, avec La Grande Explication | Lumni](https://www.programme-tv.net/imgre/fit/~2~program~164d8d5eb9a47879.jpg/630x355/quality/80/le-reseau-financier-secret-d-hitler.jpg)](https://youtu.be/RrRy_nkbG_w?si=GmunWTLpCw9ghS-k)
+
 
 
 
