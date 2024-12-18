@@ -1,14 +1,14 @@
 
 # <p align="center">Alan Turing le génie des sciences au destin tragique</p>
 ---
-## <center>Qui est Alan Turing ?</center>
+## Qui est Alan Turing ?
 
 Alan Turing, né le 23 juin 1912 à Londres et mort le 7 juin 1954 à Wilmslow est un mathématicien et cryptologue britannique. Il est surtout connu pour avoir déchiffrer les codes de la machine Enigma utilisée par les allemands durant la seconde guerre mondiale. Il est aussi considéré comme étant le père de l’informatique et de l’intelligence artificielle.
 
 ![](https://digipage.app/uploads/bd73aa2b-4cf6-4f03-a7c9-bcf84ae52f53.jpg)
 
 ---
-## <center>Un génie des sciences à la scolarité compliquée</center>
+## Un génie des sciences à la scolarité compliquée
 
 Alan Turing, est durant toute sa scolarité vu par ses professeur comme un élève peu brillant et manquant cruellement de concentration. Ses résultats plus que médiocres dans les matières littéraires renforcent davantage son image de mauvais élève, notamment à la Sherborne School dont la formation se concentrait plus sur les enseignements classiques tels que le latin, le grecques, la philosophie et les arts que les sciences. Cependant, il montre très vite un vif intérêt pour les matières scientifiques et impressionne pour sa capacité précoce à jouer avec les chiffres. Son niveau plus que suffisant en mathématiques, lui permet d’intégrer le très sélectif [King’s College de  Cambridge](https://www.kings.cam.ac.uk/about/alan-turing-programme). Entre les années 1931 et 1934, il étudie les mathématiques sous la direction de Godfrey Harold Hardy, d’Arthur Eddington et de Max Newman d’éminents hommes de sciences.
 
@@ -19,7 +19,9 @@ En 1936, il publie un article dans lequel il invente un modèle abstrait d’une
 ---
 ## La montée du nazisme
 
-<center><iframe width="500" height="300" src="https://www.youtube.com/embed/RrRy_nkbG_w?si=jYnLIjOWnj39PySb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+[![Regarder cette vidéo](https://www.humanite.fr/wp-content/uploads/2023/03/309375.HR_.jpg)](https://youtu.be/RrRy_nkbG_w?si=5jIazcMtUwEF-3bs)
+
+
 
 
 Pendant ce temps, à plusieurs centaines de kilomètres du Royaume-Unis, l'Allemagne est plongée dans un régime totalitaire dirigé par le NSDAP ou plus connu sous le nom de parti nazi. Le NSDAP ou Parti national-socialiste des ouvriers allemands,  est un parti allemand d'extrême droite ouvertement antisémite anticommuniste et nationaliste.
